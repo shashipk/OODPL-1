@@ -27,4 +27,15 @@ for UML Diagrams:
 
 https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=1 (This whole playlist)
 
+=================================
+
+Other resources/books-
+for LLD:  1. head first design patterns and
+ 2. head first object-oriented analysis and design
+
+ for HLD:
+ https://github.com/donnemartin/system-design-primer
+ https://github.com/checkcheckzz/system-design-interview
+ https://github.com/shashank88/system_design
+
 
